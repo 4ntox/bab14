@@ -1,0 +1,31 @@
+#form .col {
+    
+    font-weight: bolder;
+    min-height: 400px;
+    color: rgb(3, 5, 124);
+    background-color: rgb(67, 235, 61);
+    font-style: normal;
+
+}
+
+body {
+    background-color: rgb(235, 247, 244);
+}
+
+.judul h1 {
+    font-style: oblique;
+    background-color: rgb(233, 252, 66);
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.judul {
+    padding-top: 30px;
+    
+}
+
+.navbar-brand img {
+    width: 250px;
+    height: 100px;
+}

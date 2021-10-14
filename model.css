@@ -1,0 +1,19 @@
+#form .col {
+    
+    font-weight: bolder;
+    min-height: 400px;
+    color: rgb(3, 5, 124);
+    background-color: rgb(67, 235, 61);
+    font-style: normal;
+
+}
+
+body {
+    background-color: rgb(233, 235, 228);
+}
+
+
+.navbar-brand img {
+    width: 250px;
+    height: 100px;
+}
